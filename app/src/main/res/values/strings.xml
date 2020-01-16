@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SurflineAppMob</string>
+    <string name="signUp"><i>Don\'t have an account?</i> <u><b>Sign Up!</b></u></string>
+</resources>
